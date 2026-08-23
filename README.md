@@ -26,4 +26,6 @@ A Power BI dashboard designed to analyze sales performance and provide clear, in
 * Easy-to-understand visual representation of sales data
 
 6. Screenshot / Demo
- show what the dashboard looks like, - (https://github.com/tavish-cmd/Practise-Power-Bi-projects./blob/main/snapshot%20of%20dashboard.png)
+show what the dashboard looks like. -![Alt text](<img width="1314" height="735" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/faeac4f7-683a-4598-9a14-dfe204340e28" />
+
+Example : ![Dashboard preview](https://github.com/tavish-cmd/Practise-Power-Bi-projects./blob/main/snapshot%20of%20dashboard.png)
