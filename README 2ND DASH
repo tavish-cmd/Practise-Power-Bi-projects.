@@ -1,0 +1,31 @@
+# Sales Performance Dashboard
+
+1. Project Title / Headline
+
+**Sales Performance Dashboard – Power BI**
+
+ 2. Short Description / Purpose
+
+A Power BI dashboard designed to analyze sales performance and provide clear, interactive insights into sales, profit, orders, products, customers, and regional performance.
+
+ 3. Tech Stack
+
+* Power BI
+* Power Query
+* DAX
+
+ 4. Data Source
+
+* Private Source
+
+ 5. Features
+
+* Data cleaning and transformation using Power Query
+* Interactive dashboard with dynamic filters and slicers
+* Analysis of sales, profit, orders, and quantity sold
+* Category and sub-category performance analysis
+* State and city-wise sales analysis
+* Customer and payment mode analysis
+* Sales and profit trend analysis
+* KPI cards for key business metrics
+* Easy-to-understand visual representation of sales data
